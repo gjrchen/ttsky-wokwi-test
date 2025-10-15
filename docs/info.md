@@ -13,7 +13,11 @@ Description about the workings of the project! Just added a couple simple gates 
 
 ## How to test
 
-Explain how to use your project
+AND_in1 | AND_in2 | AND_out
+   0    |    0    |    0
+   0    |    1    |    0
+   1    |    0    |    0
+   1    |    1    |    1
 
 ## External hardware
 
